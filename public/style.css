@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.headingStyle {
+  background-color: purple;
+  color: rgb(238, 222, 222);
+  font-size: 3rem;
+  text-align: center;
+  padding: 15px;
+}
+
+.card {
+  background: #ffda77;
+  box-shadow: 2px 4px 4px grey;
+  border-radius: 5px;
+  margin: 10px;
+  margin-left: 50px;
+  padding: 10px;
+
+  width: 390px;
+  display: inline-block;
+}
+
+.cardTitle {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.cardDesc {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.cardDate {
+  text-align: center;
+  font-weight: bold;
+}
+
+.cnt {
+  margin: 10px;
+  padding: 15px;
+}
+
+.btn {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: limegreen;
+  color: #fff;
+  margin-right: 10px;
+  font-size: 2rem;
+  width: 80px;
+}
